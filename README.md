@@ -1,2 +1,2 @@
-# CSE341-Programming-Languages
+# CSE341-ProgrammingLanguages
 Coffee Language Lexer with Clojure
